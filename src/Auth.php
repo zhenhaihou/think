@@ -1,5 +1,5 @@
 <?php
-namespace zhenhaihou1;
+namespace zhenhaihou;
 
 use think\facade\Session;
 use think\Db;
