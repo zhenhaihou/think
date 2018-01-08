@@ -1,5 +1,5 @@
 <?php
-namespace zhenhaihou\think-auth;
+namespace zhenhaihou;
 
 use think\facade\Session;
 use think\Db;
