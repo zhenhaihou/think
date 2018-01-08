@@ -2,12 +2,13 @@
     "name": "zhenhaihou/think-auth",
     "description": "ThinkPHP5.1 Auth Class",
     "license": "MIT",
-	"authors": [
+    "authors": [
         {
             "name": "zhenhaihou",
             "email": "841287647@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
 	"autoload": {
         "psr-4": {
