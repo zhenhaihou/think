@@ -1,3 +1,2 @@
 # think-auth
-# auth
-ThinkPHP5.1 Auth Class.
+ThinkPHP5.1 权限类.
