@@ -1,2 +1,2 @@
 # think-auth
-ThinkPHP5.1 权限类.
+ThinkPHP6 权限类.
