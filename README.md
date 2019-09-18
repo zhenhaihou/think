@@ -1,2 +1,2 @@
 # think-auth
-ThinkPHP6 权限类.
+v1.0.2 兼容ThinkPHP6 权限类.
