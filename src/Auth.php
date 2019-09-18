@@ -2,8 +2,7 @@
 namespace zhenhaihou;
 
 use think\facade\Session;
-use think\Db;
-use think\facade\Config;
+use think\facade\Db;
 
 /**
 * 权限认证类
@@ -79,8 +78,8 @@ class Auth
 
     public function __construct()
     {
-        if (Config::pull('auth')) {
-            $this->_config = array_merge($this->_config, Config::pull('auth'));
+        if ( config('auth') ) {
+            $this->_config = array_merge($this->_config, config('auth'));
         }
     }
 
